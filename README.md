@@ -1,7 +1,7 @@
 RIMAS MOHAMMED 
 # Capstone Project: Building Agentic AI Systems
 
-Student Name: [Your Full Name Here]
+Student Name: [RIMAS MOHAMMED]
 
 ---
 
